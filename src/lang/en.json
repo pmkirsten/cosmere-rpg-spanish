@@ -67,8 +67,8 @@
                 "name": "Attribute",
                 "name_plural": "Attributes",
                 "Strength": {
-                    "long": "Strength",
-                    "short": "STR"
+                    "long": "Fuerza",
+                    "short": "FUE"
                 },
                 "Speed": {
                     "long": "Speed",
